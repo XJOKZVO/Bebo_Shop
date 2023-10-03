@@ -1,0 +1,30 @@
+/* src/components/Cart.css */
+.cart {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem;
+  }
+
+  .cart h2 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+
+  .cart ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .cart li {
+    margin: 0.5rem 0;
+  }
+
+  .cart .total {
+    font-size: 1.2rem;
+    text-align: right;
+    margin-top: 1rem;
+  }
+
+  .cart .total strong {
+    font-weight: bold;
+  }
